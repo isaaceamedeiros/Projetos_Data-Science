@@ -11,28 +11,24 @@ Portfólio pessoal com projetos de Data Science
 # Isaac Medeiros
 <sub>*Engenheiro Eletricista*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Engenheiro Eletricista pela Universidade Federal da Paraíba (UFPB).
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Ex aluno de Iniciação científica no campo de Inteligência Artificial, com ênfase em previsão de demanda em subestações de distribuição.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Como estagiário, participou da equipe de Planejamento e Engenharia da empresa Centrais Elétricas da Paraíba S.A, atuando principalmente em automação de processos, confecção e interpretação de diagramas elétricos, instrumentação e sistemas de supervisão. Trabalhou ativamente com PLC's Siemens - desenvolvendo lógicas e aplicações-, telas para supervisórios, projetos de melhorias em automação e na planta em geral.
+
+**Background in:** Python, Elipse E3, Automação Industrial, PLC's S7300 e S7400, Indústria 4.0.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/isaac-medeiros-a67b28185)
+
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
+* **Como usar o Histograma para Data Science:** 
+
 
 ---
 
