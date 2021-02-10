@@ -17,7 +17,7 @@ Ex aluno de Iniciação científica no campo de Inteligência Artificial, com ê
 
 Como estagiário, participou da equipe de Planejamento e Engenharia da empresa Centrais Elétricas da Paraíba S.A, atuando principalmente em automação de processos, confecção e interpretação de diagramas elétricos, instrumentação e sistemas de supervisão. Trabalhou ativamente com PLC's Siemens - desenvolvendo lógicas e aplicações-, telas para supervisórios, projetos de melhorias em automação e na planta em geral.
 
-**Background in:** Python, Elipse E3, Automação Industrial, PLC's S7300 e S7400, Indústria 4.0, Processos Industriais, Comunicação entre dispositivos industriais, SQL.
+**Background in:** Python, Elipse E3, Automação Industrial, PLC's S7300 e S7400, Indústria 4.0, Processos Industriais, Comunicação entre dispositivos industriais, SQL, Elipse Plant Manager.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/isaac-medeiros-a67b28185)
